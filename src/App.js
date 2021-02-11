@@ -12,7 +12,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello TAM's ( Version 2)
+          Hello TAM's ( Version 2) (React JS)
         </a>
       </header>
     </div>
